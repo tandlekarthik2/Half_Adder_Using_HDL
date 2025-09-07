@@ -13,12 +13,11 @@ A half adder is a basic combinational circuit that adds two single-bit binary in
 
 ## How to test
 
-|A	|B	|SUM	|CARRY
-====================
-|0	|0	|0	  |0
-|0	|1	|1	  |0
-|1	|0	|1	  |0
-|1	|1	|0	  |1
+|A	|B	|SUM	|CARRY |
+|0	|0	|0	  |0     |
+|0	|1	|1	  |0     |
+|1	|0	|1	  |0     |
+|1	|1	|0	  |1     |
 
 ## External hardware
 
