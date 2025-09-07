@@ -23,3 +23,4 @@ module tt_um_karthik_halfadder (
     assign uio_out = 8'b0;
     assign uio_oe  = 8'b0;
 endmodule
+ 
